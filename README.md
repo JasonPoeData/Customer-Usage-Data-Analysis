@@ -102,4 +102,5 @@ There are many factors that could affect how are bikes are rented. This may incl
 The dataset included a unique Ride id; however, there was no identifier for an individual user. The ride id tells when a bike is rented, but it doesn’t tell us if a specific customer is initiating the rental. With care for customer data and privacy, I suggest we collect encrypted user ids. This would allow us to see if the same members are renting more than once a day. As well as if casual users are renting multiple times a day further increasing our understanding of customer usage. 
 
 Thank you,
+
 Jason 
