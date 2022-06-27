@@ -53,16 +53,16 @@ Next, I wanted to see how long our customers were using our rental bikes. Casual
 
 Next, I wanted to see if the day of the week made a difference in how our customers use our services. I can see that casual users and members both use our services consistently throughout the week.
 
- Saturday is the most popular day for both type of customers. 
+Saturday is the most popular day for both type of customers. 
  
 
 I have also identified the top ten most used start stations for both casual riders and members. St. Clair St & Erie St is the most used for members while Clark St and Elm St are the most used for casual riders. 
  
- I have also identified the least used stations as well. 
+I have also identified the least used stations as well. 
  
- ## Conclusion
+# Conclusion
  
- Based on the available data of last month’s usage data I can conclude:
+Based on the available data of last month’s usage data I can conclude:
  
 members are initiating rentals more often than casual users.
 Casual riders are renting less often than members
